@@ -1,0 +1,25 @@
+#General
+.vscode
+.devcontainer
+
+
+#For Exercise1
+Exercise1/bin
+Exercise1/build
+Exercise1/*.zip
+Exercise1/*.csv
+
+#For Exercise2
+Exercise2/bin
+Exercise2/build
+Exercise2/*.txt
+
+#For Exercise3
+Exercise3/build
+Exercise3/classes
+
+#For Exercise4
+Exercise4/*.zip
+Exercise4/*.csv
+Exercise4/build
+Exercise4/classes
