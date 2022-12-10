@@ -1,4 +1,4 @@
-# Algorithms-and-Data-Structures
+# Algorithms and Data Structures project
 
 Project in C and Java languages about constructing algorithms and handling data structures, with several studies that ranged from the complexity of each methods to other particular design choices. The contexts of the exercises involved by the activity are the following:
 
