@@ -1,6 +1,6 @@
 # Algorithms-and-Data-Structures
 
-Exercises in C and Java language about constructing algorithms and handling data structures, with several studies that ranged from the complexity of each methods to other particular design choices. The contexts of the exercises are the following:
+Project in C and Java languages about constructing algorithms and handling data structures, with several studies that ranged from the complexity of each methods to other particular design choices. The contexts of the exercises involved by the activity are the following:
 
 - **`Exercise 1`**: hybrid sorting algorithm that uses both the merge sort and the insertion sort with binary search.
 - **`Exercise 2`**: edit distance algorithm, which computes the number of characters needed to remove/inserted to tranform a string to another. There are 2 version: a naive-recursive one, and another made with dynamic programming technique to reduce the complexity of the previous version.
